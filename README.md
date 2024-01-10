@@ -1,6 +1,8 @@
 # RootlessJamesDSPTutorial
 **NOTE:**
+
 - INTERNET CONNECTION IS REQUIRED FOR PAIRING WITH SHIZUKU
+- May not work in all system (due to System Limitation)
 - This Tutorial is Underwork, additional testing is needed
 - Minimum Android version is 10 (Oreo)
 - This is not for IOS users!
