@@ -5,6 +5,7 @@
 - Minimum Android version is 10 (Oreo)
 - This is not for IOS users!
 - Expect bugs, crashes
+- You can see it works if you see "Audio Processing Idle" on your notification 
 
 **Preparation**
 
