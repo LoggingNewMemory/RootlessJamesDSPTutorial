@@ -4,7 +4,7 @@
 - INTERNET CONNECTION IS REQUIRED FOR PAIRING WITH SHIZUKU
 - May not work in all system (due to System Limitation)
 - This Tutorial is Underwork, additional testing is needed
-- Minimum Android version is 10 (Oreo)
+- Minimum Android version is 12
 - This is not for IOS users!
 - Expect bugs, crashes
 - You can see it works if you see "Audio Processing Idle" on your notification 
