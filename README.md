@@ -57,6 +57,8 @@ How to enable developer settings?
 4. Select the .irs file
 5. Done
 
+**In Case you wonder where you can get those .irs files, you can go to ConvolverExample folder**
+
 Credit: 
 - programminghoch10 (Convolver Files)
 - ThePBone (Developer of Rootless JamesDSP)
