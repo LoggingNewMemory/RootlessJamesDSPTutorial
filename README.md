@@ -49,6 +49,14 @@ How to enable developer settings?
 1. Go to Troubleshooting
 2. Enable "Allow notification access for better session detection"
 
+*Import Convolver File*
+
+1. Go to Convolver
+2. Click on Impulse Respone
+3. Click Import
+4. Select the .irs file
+5. Done
+
 Credit: 
 - programminghoch10 (Convolver Files)
 - ThePBone (Developer of Rootless JamesDSP)
