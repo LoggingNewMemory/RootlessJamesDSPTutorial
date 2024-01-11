@@ -37,8 +37,9 @@ How to enable developer settings?
 6. Tap on the Wireless Debugging and Pair Device with pairing code
 7. Enter pairing code on Shizuku notification
 8. Go back to Shizuku and press start
-9. Now go back to Rootless JamesDSP and set it up
-10. Done
+9. Authorize Rootless James DSP from Shizuku
+10. Now go back to Rootless JamesDSP and set it up
+11. Done
 
 **Performance Tweaks**
 
